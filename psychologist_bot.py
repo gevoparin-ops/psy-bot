@@ -28,7 +28,7 @@ from telegram.ext import (
 # НАСТРОЙКИ
 # ─────────────────────────────────────────────
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8250365333:AAF-WM0ciLXQvVUQ4pitEj8Qx30zH3wldJU")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "ВАШ_ТОКЕН_СЮДА")
 
 PSYCHOLOGIST_NAME = "Геннадий Опарин"
 TELEGRAM_USERNAME = "@geoparin"
